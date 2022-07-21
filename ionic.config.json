@@ -1,0 +1,7 @@
+{
+  "name": "ionic-6.2-active-bar-start-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
